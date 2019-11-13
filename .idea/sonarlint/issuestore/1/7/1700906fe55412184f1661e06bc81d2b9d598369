@@ -1,0 +1,16 @@
+
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş¨­ÿ8˜…ùéå-
+msquid:S3027"JPut single-quotes around ' ' to use the faster "lastIndexOf(char)" method.(“ßƒ¼üÿÿÿÿ8©†Âå-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÖğİşÿÿÿÿ8…ÆÂå-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‰åÒúÿÿÿÿ
+}squid:S1845L"_Rename method "foo" to prevent any misunderstanding/clash with method "Foo" defined on line 28.(ä“èÕ8Ä˜ôêå-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÅì„
+¯%squid:RedundantThrowsDeclarationCheckX"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(…©–×8’óÚëå-
+¯%squid:RedundantThrowsDeclarationCheckL"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ä“èÕ8İÏÔëå-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¨­ÿ8˜…ùéå-
+¯%squid:RedundantThrowsDeclarationCheck "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8˜…ùéå-
+msquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‘ãü8Ùìöêå-
+Msquid:EmptyStatementUsageCheck;"Remove this empty statement.(ˆûš×8Â¶Ëêå-
+jsquid:UselessImportCheck":Remove this unused import 'org.apache.http.cookie.Cookie'.(…ú¶‰ıÿÿÿÿ8íŸ™öå-
+¤squid:S1186e"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅóñÌûÿÿÿÿ8íŸ™öå-

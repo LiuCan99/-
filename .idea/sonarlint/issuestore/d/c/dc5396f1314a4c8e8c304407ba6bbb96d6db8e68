@@ -1,0 +1,13 @@
+
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(фа╣А8Гоб╤у-
+Esquid:S2189""Add an end condition to this loop.(ШяИЮ     8Гоб╤у-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(░ы│ю     8ёФ╦╤у-
+Fsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8Гоб╤у-
+Wsquid:S1481"4Remove this unused "singletonHungry" local variable.(УЎПд·    8Гоб╤у-
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(з╦б│8├ъЦ╤у-
+fsquid:S1854"CRemove this useless assignment to local variable "singletonHungry".(УЎПд·    8Гоб╤у-
+Fsquid:S1604"(Make this anonymous inner class a lambda(╔у├о8Гоб╤у-
+й%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(┘└м№■    8Гоб╤у-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(┘└м№■    8Гоб╤у-

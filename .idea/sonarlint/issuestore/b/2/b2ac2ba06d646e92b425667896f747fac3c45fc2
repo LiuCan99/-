@@ -1,0 +1,6 @@
+
+Vsquid:S14818"3Remove this unused "bufferedWriter" local variable.(Ïğ¤Èøÿÿÿÿ8×¨×Ú-
+osquid:S20958"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ïğ¤Èøÿÿÿÿ8ë¯ôÖÚ-
+Ksquid:S14819"(Remove this unused "str" local variable.(‚€ñ„ıÿÿÿÿ8ËÁşÖÚ-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ãúÿÿÿÿ
+esquid:S18548"BRemove this useless assignment to local variable "bufferedWriter".(Ïğ¤Èøÿÿÿÿ8×¨×Ú-

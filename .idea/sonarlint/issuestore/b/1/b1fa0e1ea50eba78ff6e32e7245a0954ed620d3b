@@ -1,0 +1,12 @@
+
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ˆÆÌşÿÿÿÿ8†¥«ÓÚ-
+psquid:S2095)"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(£Èıƒıÿÿÿÿ8¬ººÑÚ-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Î¦Š üÿÿÿÿ8†¥«ÓÚ-
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÕÓİ¡8ÉìˆÑÚ-
+ksquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÕÓİ¡8ÖºƒÑÚ-
+msquid:S2674"JCheck the return value of the "skip" call to see how many bytes were read.(˜Œºüÿÿÿÿ8âÚïÓÚ-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åÓ¿éşÿÿÿÿ
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(§½§ıÿÿÿÿ8Ğõ®ÓÚ-

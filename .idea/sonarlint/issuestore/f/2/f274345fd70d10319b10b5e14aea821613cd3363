@@ -1,0 +1,17 @@
+
+Fsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8«øÚÐä-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.( Ý‘§8¬ôýÐä-
+asquid:S2276'"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(„¼å°8«øÚÐä-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“–ýþ8‡ƒãÐä-
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(š‚˜Ôúÿÿÿÿ8ª ÊÐä-
+Fsquid:S1148T"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ä™ÈÐä-
+dsquid:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8«øÚÐä-
+dsquid:S2142S"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ä™ÈÐä-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(š‚˜Ôúÿÿÿÿ8¢¯ÛÐä-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.( Ý‘§8‰þüÐä-
+qsquid:ModifiersOrderCheckD"EReorder the modifiers to comply with the Java Language Specification.(î‹ó†8ÐßŽÑä-
+asquid:S2276R"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(„¼å°8ÐßŽÑä-

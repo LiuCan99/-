@@ -1,0 +1,12 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿ŠÒÑùÿÿÿÿ
+jsquid:S2095X"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¿šŞ8ãêÔÖÚ-
+msquid:S2095>"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Û›¤ê8½Ö©ÖÚ-
+V
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ù¼¨ì8º¬ÖÚ-
+~squid:S11922"[Define a constant instead of duplicating this literal "G://javaTest/testIO_02.txt" 3 times.(ê²¹ıÿÿÿÿ8ãêÔÖÚ-
+rsquid:S20952"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(ê²¹ıÿÿÿÿ8ñ†ÖÚ-
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ä¾Ò»8½Ú£ÖÚ-
+U
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ƒÚáB8¦ ÜÖÚ-

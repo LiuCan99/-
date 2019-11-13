@@ -1,0 +1,17 @@
+
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¨êñÏÿÿÿÿÿ8é¿’©Ú-
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(‹‰â˜øÿÿÿÿ8µ×û©Ú-
+\squid:S2133%">Remove this object instantiation and use "User.class" instead.(¨È©¦8Ğ©Í©Ú-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(È€®ùÿÿÿÿ8àíªÚ-
+Fsquid:S1481&")Remove this unused "clz3" local variable.(Ö—ª8‘¡Î©Ú-
+[squid:S1854F"8Remove this useless assignment to local variable "obj1".(¬÷­øûÿÿÿÿ8¤ß©Ú-
+[squid:S1854K"8Remove this useless assignment to local variable "obj2".(¼Ÿİûùÿÿÿÿ8¡½ç©Ú-
+Lsquid:S1481F")Remove this unused "obj1" local variable.(¬÷­øûÿÿÿÿ8Ó¥à©Ú-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰ü¾üÿÿÿÿ8„÷Ø©Ú-
+Lsquid:S1481#")Remove this unused "clz2" local variable.(‚ĞÏœúÿÿÿÿ8ØóÈ©Ú-
+isquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ÈÅ»»8ÂØ©Ú-
+[squid:S1854#"8Remove this useless assignment to local variable "clz2".(‚ĞÏœúÿÿÿÿ8ØóÈ©Ú-
+Lsquid:S1481K")Remove this unused "obj2" local variable.(¼Ÿİûùÿÿÿÿ8¡½ç©Ú-
+Usquid:S1854&"8Remove this useless assignment to local variable "clz3".(Ö—ª8Ğ©Í©Ú-

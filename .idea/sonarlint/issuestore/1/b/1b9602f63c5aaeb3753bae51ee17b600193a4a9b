@@ -1,0 +1,55 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü°åÏ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(–àÌ:8œ™ªµß-
+Lsquid:S1481ş"(Remove this unused "tem" local variable.(„øË™ùÿÿÿÿ8Ã §²â-
+Wsquid:S1197Š"8Move the array designator from the variable to the type.(îÉö±8Á›Êâß-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‰åÒúÿÿÿÿ
+Jsquid:S1172é"+Remove this unused method parameter "strs".(ûÕ‘Ñ8†é ˆâ-
+Gsquid:S5413E")Verify that "remove()" is used correctly.(²ôˆ¼8ëØùÒá-
+{
+squid:S135g"YReduce the total number of break and continue statements in this loop to use at most one.(ßÕëèıÿÿÿÿ8Âª¢İß-
+qsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê §8Á›Êâß-
+Osquid:S1172¢"+Remove this unused method parameter "nums".(Ü²†Öüÿÿÿÿ8“úŠá-
+qsquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Î­’8Á›Êâß-
+psquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›â=8Á›Êâß-
+Wsquid:S1197Œ"8Move the array designator from the variable to the type.(×Î­’8Á›Êâß-
+Jsquid:S2185–"&Remove this silly call to "Math.floor"(…£é³ÿÿÿÿÿ8Á›Êâß-
+=squid:S1659Ö"Declare "r" on a separate line.(ÑÜ³	8Òåÿá-
+Gsquid:S1481“"(Remove this unused "str" local variable.(£ğ¿œ8•‡İâß-
+Csquid:S1659­"Declare "y" on a separate line.(ş„ò¯şÿÿÿÿ8¿Ó¹á-
+fsquid:S2184–"BCast one of the operands of this division operation to a "double".(…£é³ÿÿÿÿÿ8Á›Êâß-
+Vsquid:S1854“"7Remove this useless assignment to local variable "str".(£ğ¿œ8•‡İâß-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åà›ğ8œ™ªµß-
+Jsquid:S1168ö"+Return an empty collection instead of null.(¥¹ï8û‡²â-
+~squid:S1488y"[Immediately return this expression instead of assigning it to the temporary variable "num".(×¤©ûÿÿÿÿ8ö¹³İß-
+Esquid:S2185"&Remove this silly call to "Math.floor"(Ğæ×‘8•‡İâß-
+]squid:S3400ë"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8†é ˆâ-
+Isquid:S00108€")Either remove or fill this block of code.(÷˜Ñÿ8Ìş§²â-
+Jsquid:S1172ô"+Remove this unused method parameter "strs".(Î„‹8û‡²â-
+fsquid:S2184’"BCast one of the operands of this division operation to a "double".(±ÏÈ™øÿÿÿÿ8•‡İâß-
+Jsquid:S1168¤"+Return an empty collection instead of null.(¥¹ï8“úŠá-
+fsquid:S2184–"BCast one of the operands of this division operation to a "double".(…£é³ÿÿÿÿÿ8Á›Êâß-
+:squid:S1643s"Use a StringBuilder instead.(Ššóë8Âª¢İß-
+:squid:S1643p"Use a StringBuilder instead.(ı €8Âª¢İß-
+qsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÉö±8Á›Êâß-
+Jsquid:S2185’"&Remove this silly call to "Math.floor"(±ÏÈ™øÿÿÿÿ8•‡İâß-
+Gsquid:S5413E")Verify that "remove()" is used correctly.(²ôˆ¼8ëØùÒá-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÊë­8œ™ªµß-
+psquid:S3776*"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(í ¸ 8œÀ¡¼ß-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ô›8œ™ªµß-
+Jsquid:S2185–"&Remove this silly call to "Math.floor"(…£é³ÿÿÿÿÿ8Á›Êâß-
+`squid:S1126º"AReplace this if-then-else statement by a single return statement.(ƒó¼¦8¤‹Áá-
+Jsquid:S2185"&Remove this silly call to "Math.floor"(”ÌÁşÿÿÿÿ8•‡İâß-
+Jsquid:S2185‘"&Remove this silly call to "Math.floor"(­Æñ¹üÿÿÿÿ8•‡İâß-
+fsquid:S2184–"BCast one of the operands of this division operation to a "double".(…£é³ÿÿÿÿÿ8Á›Êâß-
+Jsquid:S2185–"&Remove this silly call to "Math.floor"(…£é³ÿÿÿÿÿ8Á›Êâß-
+Isquid:S1481ü"*Remove this unused "lists" local variable.(š«Äë8½²¥²â-
+=squid:S1659Ö"Declare "l" on a separate line.(ÑÜ³	8Òåÿá-
+[squid:S1854ş"7Remove this useless assignment to local variable "tem".(„øË™ùÿÿÿÿ8Ã §²â-
+Vsquid:S1197‹"8Move the array designator from the variable to the type.(ı›â=8Á›Êâß-
+Wsquid:S1197‰"8Move the array designator from the variable to the type.(Ê §8Á›Êâß-
+}squid:S1488–"YImmediately return this expression instead of assigning it to the temporary variable "a".(…£é³ÿÿÿÿÿ8Á›Êâß-
