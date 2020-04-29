@@ -1,5 +1,7 @@
 package com.czxy.io;
 
+import org.junit.Test;
+
 import java.io.*;
 
 public class testReader {
@@ -92,9 +94,6 @@ public class testReader {
         while ((str=bufferedReader.readLine())!=null){
             System.out.println(str);
         }
-
-
-
     }
 
 }

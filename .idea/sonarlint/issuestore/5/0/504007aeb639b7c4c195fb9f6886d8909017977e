@@ -1,15 +1,15 @@
 
-jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–ªŒ¢úÿÿÿÿ
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬¾‡Ê8Ï”©ªÚ-
-[
-squid:S106-"9Replace this use of System.out or System.err by a logger.(îÁ–ûÿÿÿÿ8ÍŸæÔä-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(÷ƒëâ8ÒÈšªÚ-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(îÁ–ûÿÿÿÿ8ÍŸæÔä-
 V
 squid:S106!"9Replace this use of System.out or System.err by a logger.(­ä€Á8•«ªÚ-
 V
 squid:S106#"9Replace this use of System.out or System.err by a logger.(§è»8ĞÊ§ªÚ-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8¤É»Áå-
 [
 squid:S106,"9Replace this use of System.out or System.err by a logger.(ÖÒŞ¨şÿÿÿÿ8Õ˜çÔä-
-]squid:UselessImportCheck"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8¤É»Áå-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬¾‡Ê8Ï”©ªÚ-
+jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–ªŒ¢úÿÿÿÿ

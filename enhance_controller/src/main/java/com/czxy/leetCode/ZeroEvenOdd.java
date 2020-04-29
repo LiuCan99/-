@@ -5,7 +5,7 @@ import java.util.concurrent.Semaphore;
 import java.util.function.IntConsumer;
 
 public class ZeroEvenOdd {
-    private int n;
+    private static int n;
 
     public ZeroEvenOdd(int n) {
         this.n = n;

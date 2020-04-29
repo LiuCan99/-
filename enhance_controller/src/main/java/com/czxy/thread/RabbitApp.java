@@ -14,12 +14,8 @@ public class RabbitApp {
          * 等待下一次的run()
          *
          */
-
         rab.start(); //启动，通过继承Thread类实现的线程
         new Thread(tor).start(); //启动，通过实现Runnable实现的线程
-
-//        rab.run();
-//        tor.run();
 
         for(int i=0;i<10;i++){
             System.out.println("main==>"+i);

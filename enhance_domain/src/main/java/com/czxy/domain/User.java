@@ -3,6 +3,8 @@ package com.czxy.domain;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.xml.crypto.Data;
+import java.util.Date;
 
 @Entity
 @Table(name="user")
@@ -11,7 +13,15 @@ public class User {
     private Integer uid;
     private String username;
     private String password;
-    public String sss;
+    public Date date;
+
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
 
     public Integer getUid() {
         return uid;
@@ -40,10 +50,11 @@ public class User {
     public User() {
     }
 
-    public User(Integer uid, String username, String password) {
+    public User(Integer uid, String username, String password, Date date) {
         this.uid = uid;
         this.username = username;
         this.password = password;
+        this.date = date;
     }
 
     @Override
@@ -52,6 +63,7 @@ public class User {
                 "uid=" + uid +
                 ", username='" + username + '\'' +
                 ", password='" + password + '\'' +
+                ", date=" + date +
                 '}';
     }
 }
