@@ -1,5 +1,7 @@
 package com.czxy.algorithm;
 
+import org.junit.Test;
+
 /**
  * @Author: liucan
  * 插入排序
@@ -8,6 +10,12 @@ package com.czxy.algorithm;
 public class InsertionSort {
 
     public static void main(String[] args) {
+        int[] array={5,9,1,4,2};
+        insertionSort(array);
+    }
+
+    @Test
+    public void aa(){
         int[] array={5,9,1,4,2};
         insertionSort(array);
     }
@@ -37,24 +45,18 @@ public class InsertionSort {
         if(array.length==0){
             return array;
         }
-
-        int temp;
         for(int i=0;i<array.length-1;i++){
-            //记录下一个值
-            temp=array[i+1];
+            //记录下一个数的值
+            int lastValue=array[i+1];
             //记录当前索引
             int index=i;
-
-            while (index>=0&&array[index]>temp){
+            //判断
+            while(index>=0&&lastValue>array[index]){
                 array[index+1]=array[index];
                 index--;
             }
+            array[index+1]=lastValue;
 
-            array[index+1]=temp;
-        }
-
-        for(int num:array){
-            System.out.print(num+"  ");
         }
         return array;
     }

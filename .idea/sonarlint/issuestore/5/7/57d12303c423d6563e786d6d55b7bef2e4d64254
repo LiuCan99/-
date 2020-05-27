@@ -1,13 +1,13 @@
 
-dsquid:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ˆä£Ïä-
-qsquid:ModifiersOrderCheck;"EReorder the modifiers to comply with the Java Language Specification.(î‹ó†8ˆä£Ïä-
-asquid:S2276$"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¢€Ñü8Þõ¾Ïä-
 [
 squid:S106("9Replace this use of System.out or System.err by a logger.(š‚˜Ôúÿÿÿÿ8Þõ¾Ïä-
-Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Þõ¾Ïä-
-dsquid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Þõ¾Ïä-
 Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ˆä£Ïä-
-asquid:S2276B"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¢€Ñü8ˆä£Ïä-
-psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“–ýþ8Þõ¾Ïä-
+qsquid:ModifiersOrderCheck;"EReorder the modifiers to comply with the Java Language Specification.(î‹ó†8ˆä£Ïä-
+dsquid:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ˆä£Ïä-
 [
 squid:S106F"9Replace this use of System.out or System.err by a logger.(š‚˜Ôúÿÿÿÿ8ˆä£Ïä-
+dsquid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Þõ¾Ïä-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“–ýþ8Þõ¾Ïä-
+asquid:S2276B"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¢€Ñü8ˆä£Ïä-
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Þõ¾Ïä-
+asquid:S2276$"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¢€Ñü8Þõ¾Ïä-

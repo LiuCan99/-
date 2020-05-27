@@ -1,31 +1,31 @@
 
-[
-squid:S106|"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8Ğ¼·Êæ-
-msquid:S00100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‘ãü8Ùìöêå-
+¯%squid:RedundantThrowsDeclarationCheck$"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8˜…ùéå-
+Ÿsquid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş¨­ÿ8˜…ùéå-
+}squid:S1845P"_Rename method "foo" to prevent any misunderstanding/clash with method "Foo" defined on line 32.(ä“èÕ8Ä˜ôêå-
+`squid:HiddenFieldChecku"7Rename "two" which hides the field declared at line 29.(†ğ­ä8Ì¯Êæ-
 Msquid:EmptyStatementUsageCheck?"Remove this empty statement.(ˆûš×8Â¶Ëêå-
 esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÅì„
-Ÿsquid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş¨­ÿ8˜…ùéå-
-`squid:HiddenFieldChecku"7Rename "two" which hides the field declared at line 29.(†ğ­ä8Ì¯Êæ-
-W
-squid:S106—"9Replace this use of System.out or System.err by a logger.(ïŸí¹8çèÌæ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‰åÒúÿÿÿÿ
+_squid:HiddenFieldCheckt"7Rename "one" which hides the field declared at line 28.(ôã!8Ì¯Êæ-
+msquid:S00100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‘ãü8Ùìöêå-
 W
 squid:S106¼"9Replace this use of System.out or System.err by a logger.(™Şé¢8´ñ°ì-
-V
-squid:S106µ"9Replace this use of System.out or System.err by a logger.(œ™À8´÷ıÌæ-
-_squid:HiddenFieldCheckt"7Rename "one" which hides the field declared at line 28.(ôã!8Ì¯Êæ-
-¯%squid:RedundantThrowsDeclarationCheckP"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ä“èÕ8İÏÔëå-
+msquid:S3027"JPut single-quotes around ' ' to use the faster "lastIndexOf(char)" method.(“ßƒ¼üÿÿÿÿ8©†Âå-
+W
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ïŸí¹8çèÌæ-
+[
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8Ğ¼·Êæ-
 ¯%squid:RedundantThrowsDeclarationCheck]"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(…©–×8’óÚëå-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(İÖğİşÿÿÿÿ8…ÆÂå-
+squid:S106~"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8Ğ¼·Êæ-
 msquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¨­ÿ8˜…ùéå-
+]squid:S1854“"9Remove this useless assignment to local variable "count".(‡ÙüÕÿÿÿÿÿ8µ¥³Ìæ-
 \
 squid:S106"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8Ğ¼·Êæ-
-jsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ĞüÇ§8Œ¬Á°ì-
-Osquid:S1172Ş"+Remove this unused method parameter "head".(ı¥ÿıÿÿÿÿ8™í¨°ì-
 [
-squid:S106~"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8Ğ¼·Êæ-
-]squid:S1854“"9Remove this useless assignment to local variable "count".(‡ÙüÕÿÿÿÿÿ8µ¥³Ìæ-
-¯%squid:RedundantThrowsDeclarationCheck$"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8˜…ùéå-
-}squid:S1845P"_Rename method "foo" to prevent any misunderstanding/clash with method "Foo" defined on line 32.(ä“èÕ8Ä˜ôêå-
-msquid:S3027"JPut single-quotes around ' ' to use the faster "lastIndexOf(char)" method.(“ßƒ¼üÿÿÿÿ8©†Âå-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä‰åÒúÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÖğİşÿÿÿÿ8…ÆÂå-
+Osquid:S1172Ş"+Remove this unused method parameter "head".(ı¥ÿıÿÿÿÿ8™í¨°ì-
+jsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ĞüÇ§8Œ¬Á°ì-
+V
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(œ™À8´÷ıÌæ-
+¯%squid:RedundantThrowsDeclarationCheckP"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ä“èÕ8İÏÔëå-

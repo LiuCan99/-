@@ -1,6 +1,6 @@
 
+usquid:S20952"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(—œÛ¡øÿÿÿÿ8‘µùÔÚ-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(žÌŒ 8‰†¨ÔÚ-
 tsquid:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(¢ê“”ýÿÿÿÿ8ñ‡£ÔÚ-
 jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ž€¸êýÿÿÿÿ
-usquid:S20952"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(—œÛ¡øÿÿÿÿ8‘µùÔÚ-

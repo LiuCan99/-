@@ -1,6 +1,9 @@
 package com.czxy.algorithm;
 
+import org.apache.ibatis.javassist.runtime.Desc;
+
 import javax.xml.transform.Source;
+import java.util.Arrays;
 
 /**
  * @Author: liucan
@@ -33,6 +36,7 @@ public class SelectionSort {
 
     public static void main(String[] args) {
         int[] array={5,9,1,4,2};
+//        Arrays.sort(array);
         selectionSort(array);
     }
 
@@ -50,11 +54,6 @@ public class SelectionSort {
                 }
             }
         }
-
-        for(int num:array){
-            System.out.print(num+"  ");
-        }
-
         return array;
     }
 
